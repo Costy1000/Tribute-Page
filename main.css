@@ -67,7 +67,8 @@ table {
      width: 100%;  
      background: linear-gradient(to bottom left,rgb(230, 179, 255), rgb(173, 173, 235)) no-repeat center; 
      font-family: 'Open Sans', sans-serif;
-    background-size: cover;
+     background-size: cover;
+     background-attachment: fixed;  
 }
 
    
